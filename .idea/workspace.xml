@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ba5e7fc-6299-434f-9e85-1565086b25b8" name="更改" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ba5e7fc-6299-434f-9e85-1565086b25b8" name="更改" comment="cadd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +101,11 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="gitignore11" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="a3" />
+    <MESSAGE value="b" />
+    <MESSAGE value="c" />
+    <MESSAGE value="cadd" />
+    <option name="LAST_COMMIT_MESSAGE" value="cadd" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
