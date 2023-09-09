@@ -1,9 +1,5 @@
 package test
 
-func main() {
-
-}
-
 import "fmt"
 
 func main() {
