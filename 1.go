@@ -6,5 +6,4 @@ func main() {
 	fmt.Println(2)
 	fmt.Println(3)
 	fmt.Println(31)
-	fmt.Println(3122)
 }
