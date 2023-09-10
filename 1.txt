@@ -1,8 +1,3 @@
 c
 c new
 ds
-newb master c
-
-
-
-
