@@ -2,5 +2,5 @@ package test
 
 func main() {
 
-	//git push r master:main
+	//git push r master:maind
 }
